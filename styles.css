@@ -1,0 +1,319 @@
+body {
+
+background-color: #141414;   
+
+}
+
+.header{
+    text-align: center;
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.nest{
+width: 75%;
+text-align: center;
+background-color: rgba(148, 166, 162, 0.4);
+}
+
+.chatBox{
+    height: 90%;
+    text-align: center;
+    
+}
+
+.chatNest{
+    margin-bottom: 100%;
+    background-color: rgba(148, 166, 162, 0.4);
+    
+    
+    
+    
+}
+.chatForm{
+    
+    color: #ffffff;
+    background-color: rgba(148, 166, 162, 0.5);
+    text-align: center;
+}
+.logoBox{
+    text-align: center;
+    
+}
+
+.logo{
+    height: 100px;
+    
+}
+
+.textForm{
+    color: #ffffff;
+    background-color: rgba(148, 166, 162, 0.5);
+}
+
+.brandName{
+    color: #ffffff;
+    font-family: bebas-neue-pro, sans-serif;
+    font-weight: 600;
+    
+
+}
+
+.form-control{
+    background-color: rgba(148, 166, 162, 0.5);
+    border-style: none;
+    color: #ffffff !important;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+    
+    
+    
+}.form-control:focus{
+    background-color: rgb(148, 166, 162);
+}
+
+.form-control::placeholder{
+    color: #ffffff;
+    font-family: bebas-neue-pro, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    
+
+}
+
+.icon{
+    background-color: rgba(148, 166, 162, 0.5);
+    
+}
+
+.material-icons{
+    font-size: 18px;
+}
+
+.forgot{
+    color: #ffffff;
+    font-family: bebas-neue-pro, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: left;
+}
+
+.textLink{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.textLink:focus{
+    color: #005e4d
+}
+
+.form-check{
+    text-align: left;
+    color: #ffffff !important;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.form-check-input{
+    background-color: rgb(148, 166, 162);
+}
+
+.btn-secondary{
+    background-color: rgb(148, 166, 162);
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.btn{
+    width: 100%;
+}
+
+.signIn{
+    font-size: 18px;
+}
+
+.createAcnt{
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+.or{
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+    color: #ffffff;
+}
+
+.fa-facebook-f{
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+    margin-right: 25%;
+}
+
+.fa-twitter{
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 25%;
+}
+
+.fa-google{
+    color: #ffffff;
+    font-size: 30px;
+    text-align: right;
+}
+
+.topNav{
+    text-align: center;
+    justify-content: center;
+}
+
+.list-group{
+    justify-content: center;
+}
+
+.list-group-item{
+    background-color: #141414;
+    border-style: none;
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+
+.fields{
+    text-decoration: none;
+}
+
+.teams{
+    text-decoration: none;
+}
+
+.fieldCard{
+    position: relative;
+  
+}
+
+.bottomLeft{
+    position: absolute;
+    bottom: 0px;
+    left: 16px;
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pitch{
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bold{
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.light{
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.joinGroup{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-right: 5px;
+    
+}
+
+.fieldInfo{
+    justify-content: space-between;
+}
+
+.footer{
+    justify-content: space-between;
+    
+    bottom: 0px;
+    
+    
+}
+.material-icons.group{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.material-icons.chat{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.material-icons.notify{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.teamHeader{
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+
+.teamInfo{
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+
+
+.notifyText{
+    color: #ffffff;
+    font-family: bebas-neue-pro,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+.gutter{
+    background-color: rgba(148, 166, 162, 0.4);
+    
+}
+
+.teamCard{
+    background-color: rgba(148, 166, 162, 0.4);
+    
+    
+}
+
+.joinTeam{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.form-control.chatForm{
+    text-align: center;
+}
+
